@@ -7,7 +7,7 @@ Overview: These are my notes from training with Udemy. You can [see the course h
 
 ## Understanding ChatGPT & LLMs
 
-ChatGPT is a GPT model (Generative Pretrained Transformer). The GPT model was created by OpenAI, which was founded as an Opensource AI company, but it has since gone private. 
+ChatGPT is a GPT model (Generative Pre-trained Transformer). The GPT model was created by OpenAI, which was founded as an Opensource AI company, but it has since gone private. 
 
 GPT models are actually a Large Language Model. Large Language Models are a general concept that use machine learning to perform natural language processing (NLP) tasks. In other words, LLM's are built and optimized to understand and process text. They are trained to calculate probabilities and to suggest the next word based on the probability that it will follow the previous words. 
 
@@ -258,6 +258,8 @@ Cropping an image, converting to gray scale, finding a HEX/RGB color pallet base
 
 ## Content Creation
 
+ChatGPT can be used to create all kinds of content from SEO Keywords, Blog Articles, YouTube video scripts, social media posts, resumes & cover letters, emails, etc. This section covers ways in depth examples of how to use ChatGPT for content creation.  
+
 In order to get great articles, we need to provide ChatGPT constraints. We covered some of this in the prompting section. Examples of this include: Target Audience, Topic Related Keywords (SEO), Asking for Significant Improvements/Milestones, Ask for placeholder image descriptions where we can make the article more engaging. 
 
 ### Asking ChatGPT for SEO Keywords for Your Article
@@ -269,3 +271,23 @@ In order to get great articles, we need to provide ChatGPT constraints. We cover
 "Create an outline for an article. Includes keywords above where possible. The outline should be the base of of a 1200 word article."
 
 ### Asking ChatGPT for the Article. 
+
+We can just ask ChatGPT for the article next. Alternatively, we could have asked for this all in a single prompt as follows: 
+
+"You're a professional blogger. Your job is to write articles that are search engine optimized to maximize the potential audience. Write an engaging article about the development of Apple's iPhone for your blog based on these bullet points: 
+
+- The article should start with the presentation of the iPhone and end in the year 2021
+- The target audience are tech related people. 
+- Use SEO relevant keywords wherever possible to reach a bigger audience
+- You should highlight significant technological changes related to the iPhone
+- The article should contain different sections and headings
+- Add images where required, if you can't add an image, add an image description as the placeholder. "
+
+### Asking ChatGPT for a Summary
+
+We can then ask ChatGPT for a summary of the article that is limited to 300 words. 
+
+### Additional Items:
+
+- Asking ChatGPT for a YouTube video script from this article. 
+- Asking ChatGPT for social media posts for this articles. 
