@@ -1,9 +1,6 @@
-# Udemy - ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide
+# ChatGPT
 
-Overview: These are my notes from training with Udemy. You can [see the course here](https://www.udemy.com/course/chatgpt-bard-bing-complete-guide-to-chatgpt-openai-apis/).
-
-
----
+Overview: This section covers the basics of ChatGPT and LLMs. 
 
 ## Understanding ChatGPT & LLMs
 
